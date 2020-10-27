@@ -1,0 +1,15 @@
+"D:\IAR\arm\bin\armproc.dll" 
+
+"D:\IAR\arm\bin\armJET.dll" 
+
+"F:\machine\smart_car\project\test3\Prj\IAR\Debug\Exe\VCAN_KL.out" 
+
+--plugin="D:\IAR\arm\bin\armbat.dll" 
+
+--device_macro="D:\IAR\arm\config\debugger\NXP\KLxx.dmac" 
+
+--flash_loader="D:\IAR\arm\config\flashloader\NXP\FlashKLxx256K.board" 
+
+
+
+
